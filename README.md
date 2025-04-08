@@ -1,2 +1,2 @@
 # LAB1_Comunicaciones
-Códigos de Matlab Laboratorio 01 comunicaciones digitales 
+Códigos de Matlab y zip de latex Laboratorio 01 comunicaciones digitales 
